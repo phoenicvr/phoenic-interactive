@@ -1,121 +1,101 @@
-Effective Date: July 29, 2025
-
-Last Updated: July 29, 2025
-
+Effective Date: July 30, 2025
+Last Updated: July 30, 2025
 
 All staff members (including moderators, developers, testers, and administrators) in Ape Chasers are expected to act professionally, fairly, and in the best interest of the community. These guidelines exist to ensure that players are treated respectfully and that staff conduct upholds the integrity of Ape Chasers.
 
-
 1. General Expectations
-
 Represent Ape Chasers in a professional and respectful manner at all times.
-
 
 Follow all Terms of Service and Privacy Policy just like any regular player.
 
-
 Do not abuse any powers or privileges for personal gain, fun, or to harass others.
-
 
 Set an example in behavior, language, and maturity.
 
-
 Keep internal information (plans, features, or disciplinary actions) confidential unless approved to share.
 
-
 2. Moderator Responsibilities
-
 Enforce the rules listed in the Terms of Service fairly and consistently.
-
 
 Do not issue bans, mutes, or kicks unless a player has clearly violated the rules.
 
-
 Record evidence (logs, screenshots, or video) for serious actions like bans or permanent mutes.
-
 
 Do not argue with players. If a situation escalates, step back and report it to a lead staff member or the developer.
 
-
 Treat every situation without bias, even if you know the player personally.
-
 
 Use moderation tools only when necessary. Never use them as a joke or for non-enforcement reasons.
 
-
 3. Developer Responsibilities
-
 Ensure all systems or features added to Ape Chasers follow the community guidelines.
-
 
 Never insert personal backdoors, cheats, or hidden content that affects gameplay unfairly.
 
-
 Keep testing accounts or tools private and secure.
-
 
 Communicate with other staff members and the lead developer before making major changes.
 
-
 4. Inappropriate Use of Power
-
 Examples of staff abuse that will result in demotion or ban:
-
 
 Banning or muting players without cause or warning
 
-
 Giving out items, cosmetics, or access to others unfairly
-
 
 Using staff-only tools in public lobbies without purpose
 
-
 Leaking private content or confidential information
-
 
 Harassing or threatening players using your staff position
 
-
 Ignoring rule-breaking behavior from friends or known players
 
-
 5. Account Security
-
 Do not share your moderator or developer account with anyone.
-
 
 If someone else uses your account to abuse powers, you will still be held responsible.
 
-
 Enable any available security protections (such as platform-level PINs or 2FA).
 
-
 6. Reporting Misconduct
-
 If you see another staff member breaking the rules or abusing powers, report it directly to the lead developer at:
-
 
 phoenicinteractive@gmail.com
 
-
 All reports will be taken seriously and kept confidential.
 
+7. Promotions and Demotions
+Promotion Requirements:
 
-7. Termination
+The staff member must have been actively contributing for at least 1–2 days.
 
+They must never ask for a promotion directly or indirectly. Promotions are earned, not requested.
+
+Demotion Requirements:
+
+A staff member may be demoted if they have broken any staff rule or have been inactive for 4 or more days,
+unless they are on an officially approved break.
+
+Evidence or reasoning must be provided before demotion is discussed.
+
+8. Breaks
+Staff may request a break from their duties if needed.
+
+All break requests must include a clear reason and be approved directly by Phoenic (main owner).
+
+Staff members on break must not engage in staff responsibilities until their return.
+
+Abuse of the break system (e.g. faking reasons) may result in disciplinary action.
+
+9. Termination
 Failure to follow these guidelines may result in:
-
 
 Temporary or permanent removal from the staff team
 
-
 Loss of in-game privileges
-
 
 Bans from Ape Chasers depending on the severity of the abuse
 
-
-8. Final Notes
-
+10. Final Notes
 Staff roles are a privilege, not a right. You are expected to hold yourself to a higher standard than regular players. If you are unsure about a situation, ask first, act second. The goal of every staff action should be to keep Ape Chasers fair, fun, and safe for everyone.
